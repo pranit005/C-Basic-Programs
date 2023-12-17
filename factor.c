@@ -1,4 +1,4 @@
-// program for finding the factor of given number.
+// program for finding the factor of given number. hehehehe
 #include <stdio.h>
 int main()
 {
